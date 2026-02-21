@@ -1,6 +1,7 @@
 
-<img width="2240" height="835" alt="Dre Banner" src="https://github.com/user-attachments/assets/20bba268-152a-4127-80d1-2a3e4c906454" />
-
+<!--
+/! <img width="2240" height="835" alt="Dre Banner" src="https://github.com/user-attachments/assets/20bba268-152a-4127-80d1-2a3e4c906454" />
+-->
 ## Hey, I'm Dre!
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-solorzano-maldonado/)
 
