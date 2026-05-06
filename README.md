@@ -4,12 +4,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-solorzano-maldonado/)
 
 I have a backend heart, but a frontend reality. I love looking at a program and figuring out how to build it myself from scratch. Python will always be my first love, but life (and the web) has decided that JS and React are my path.
-
-When I'm not writing code, I'm probably surviving the learning curve of my recent Arch Linux setup, or exploring concepts in cybersecurity and networking.
-
-### 🔭 What I'm currently up to:
-* **Building:** A recipe-sharing application, and a productivity app for students featuring Google Classroom integration.
-* **Database wrangling:** Getting deep into **Supabase** and **PostgreSQL**.
 ---
 
 <!--
