@@ -3,15 +3,13 @@
 ## Hey, I'm Dre! 👋
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-solorzano-maldonado/)
 
-I have a backend heart, but a frontend reality. I love looking at a program and figuring out how to build it myself from scratch. Python will always be my first love, but life (and the web) has decided that JS and React are my path.
+I love looking at a program and figuring out how to build it myself from scratch. Python will always be my first love, but life (and the web) has decided that JS and React are my path.
 ---
 
-<!--
 [![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-Slr&hide=prs,contribs&include_all_commits=true&show_icons=true&theme=monokai&hide_rank=true&custom_title=My%20stats)](#)
 
-### Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Slr&langs_count=6&layout=compact&theme=monokai)](#)
--->
+
 
 ### 💻 Tech Stack & Tools
 
@@ -32,6 +30,7 @@ I have a backend heart, but a frontend reality. I love looking at a program and 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
