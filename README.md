@@ -6,11 +6,6 @@
 I love looking at a program and figuring out how to build it myself from scratch. Python will always be my first love, but life (and the web) has decided that JS and React are my path.
 ---
 
-[![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-Slr&hide=prs,contribs&include_all_commits=true&show_icons=true&theme=monokai&hide_rank=true&custom_title=My%20stats)](#)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Slr&langs_count=6&layout=compact&theme=monokai)](#)
-
-
 ### 💻 Tech Stack & Tools
 
 **Languages:**
@@ -35,4 +30,4 @@ I love looking at a program and figuring out how to build it myself from scratch
 ---
 
 ### 🚀 Check out my latest work!
-Feel free to explore my latest project, [Movies Lists](https://andre-slr.github.io/Movies-Lists/). If you find it interesting or helpful, I'd love a ⭐️!
+Feel free to explore my latest projects, [Movies Lists](https://andre-slr.github.io/Movies-Lists/) and [Cupos SIIAU](andre-slr.github.io/cupos-siiau/)
